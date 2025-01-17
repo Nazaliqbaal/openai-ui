@@ -1,3 +1,23 @@
+Nazal AI Chat
+Nazal AI Chat is a web application that allows users to interact with OpenAI's GPT-3.5-Turbo chatbot. It provides a simple interface to ask questions and receive intelligent responses.
+
+Features
+AI-Powered Chat: Communicate with OpenAI's GPT-3.5-Turbo.
+Seamless Interaction: Instant responses to user queries.
+Backend and Frontend Integration:
+Frontend: Deployed at nazal-ai-chat.vercel.app.
+Backend: Deployed at openai-backend-nazal.vercel.app.
+Technologies Used
+Frontend: Next.js
+Backend: Nest.js
+AI Model: OpenAI GPT-3.5-Turbo
+How to Use
+Visit the Nazal AI Chat.
+Type your question in the input box.
+Press "Enter" to get a response from the AI chatbot.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
